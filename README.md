@@ -310,3 +310,5 @@ Thank you to all our [GitHub Sponsors](https://github.com/sponsors/trycua).
 | <a href="https://github.com/adamcohenhillel"><img src="https://avatars.githubusercontent.com/u/633840?s=128&v=4" alt="Adam Cohen Hillel" width="64" height="64"></a> | <a href="https://github.com/coderabbitai"><img src="https://avatars.githubusercontent.com/u/132028505?s=128&v=4" alt="CodeRabbit" width="64" height="64"></a> | <a href="https://github.com/ZephyrCloudIO"><img src="https://avatars.githubusercontent.com/u/144168943?s=128&v=4" alt="Zephyr Cloud IO" width="64" height="64"></a> |
 
 </div>
+
+<!-- mantis refresh test: 2026-10-22T22:58:24.5474005-04:00 -->
